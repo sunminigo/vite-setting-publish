@@ -1,0 +1,19 @@
+{
+  "name": "vite-setting-publish",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 1234",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1",
+    "vite": "^4.0.0",
+    "vite-plugin-handlebars": "^1.6.0"
+  },
+  "dependencies": {
+    "swiper": "^8.4.5"
+  }
+}
